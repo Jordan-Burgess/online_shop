@@ -9,7 +9,8 @@ router.get('/', (req, res)=>{
 })
 
 router.get('/:id', (req, res)=>{
-    res.send(products[req.params.id])
+    const data = {product: products[req.params.id]}
+    res.render('show.ejs', data)
 })
 
 module.exports = router

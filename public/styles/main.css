@@ -1,0 +1,24 @@
+.allProducts{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px;
+
+}
+
+.product{
+    border: 1px solid red;
+    width: 300px;
+}
+
+.productName{
+    text-decoration: none;
+    color:rgb(18, 18, 18)
+}
+.productName:hover{
+    color: orange
+}
+
+img{
+    height: 200px;
+}

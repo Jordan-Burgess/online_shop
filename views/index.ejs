@@ -8,14 +8,14 @@
 </head>
 <body>
     <h1>Jordan's Shop</h1>
-    <h2>All Products</h2>
+    <h3>All Products</h3>
     <div class="allProducts">
     <% for(let i=0; i<products.length; i++) {%>
         <%let product = products[i]%>
         <div class="product">
             <a href="/products/<%= i %>"><img src="<%= product.image %>"></a>
             <a href="/products/<%= i %>" class="productName"><h3><%= product.name %></h3></a>
-            <p>$<%= product.price %></p>
+            <p class="price">$<%= product.price %></p>
             <p><%= product.description %></p>
         </div>
     <%}%>

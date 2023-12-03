@@ -22,6 +22,54 @@ const products = [
         price: 22.40,
         description: 'Small indoor calathea freddie plant that can be places anywhere inside the home',
         image: 'https://www.plantvine.com/plants/Calathea-Freddy-Main-800x1000.jpg'
+    },
+    {
+        name:'Small Calathea Freddie',
+        price: 22.40,
+        description: 'Small indoor calathea freddie plant that can be places anywhere inside the home',
+        image: 'https://www.plantvine.com/plants/Calathea-Freddy-Main-800x1000.jpg'
+    },
+    {
+        name:'Small Calathea Freddie',
+        price: 22.40,
+        description: 'Small indoor calathea freddie plant that can be places anywhere inside the home',
+        image: 'https://www.plantvine.com/plants/Calathea-Freddy-Main-800x1000.jpg'
+    },
+    {
+        name:'Small Calathea Freddie',
+        price: 22.40,
+        description: 'Small indoor calathea freddie plant that can be places anywhere inside the home',
+        image: 'https://www.plantvine.com/plants/Calathea-Freddy-Main-800x1000.jpg'
+    },
+    {
+        name:'Small Calathea Freddie',
+        price: 22.40,
+        description: 'Small indoor calathea freddie plant that can be places anywhere inside the home',
+        image: 'https://www.plantvine.com/plants/Calathea-Freddy-Main-800x1000.jpg'
+    },
+    {
+        name:'Small Calathea Freddie',
+        price: 22.40,
+        description: 'Small indoor calathea freddie plant that can be places anywhere inside the home',
+        image: 'https://www.plantvine.com/plants/Calathea-Freddy-Main-800x1000.jpg'
+    },
+    {
+        name:'Small Calathea Freddie',
+        price: 22.40,
+        description: 'Small indoor calathea freddie plant that can be places anywhere inside the home',
+        image: 'https://www.plantvine.com/plants/Calathea-Freddy-Main-800x1000.jpg'
+    },
+    {
+        name:'Small Calathea Freddie',
+        price: 22.40,
+        description: 'Small indoor calathea freddie plant that can be places anywhere inside the home',
+        image: 'https://www.plantvine.com/plants/Calathea-Freddy-Main-800x1000.jpg'
+    },
+    {
+        name:'Small Calathea Freddie',
+        price: 22.40,
+        description: 'Small indoor calathea freddie plant that can be places anywhere inside the home',
+        image: 'https://www.plantvine.com/plants/Calathea-Freddy-Main-800x1000.jpg'
     }
 ]
 

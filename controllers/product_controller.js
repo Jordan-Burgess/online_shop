@@ -35,6 +35,11 @@ router.get('/:id/edit', (req, res)=>{
     res.render('edit.ejs', data)
 })
 
+router.put('/:id', (req, res)=>{
+    products[req.params.id] = req.body
+    res.redirect(`/products/${req.params.id}`)
+})
+
 router.delete('/:id', (req, res)=>{
     products.splice(req.params.id, 1)
     res.redirect('/products')
